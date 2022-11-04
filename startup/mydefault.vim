@@ -19,3 +19,7 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab
 
+" Check file type and load file specific files
+" if &filetype==# 'tex'
+"     source ~/.vim/startup/latex.vim
+" endif
